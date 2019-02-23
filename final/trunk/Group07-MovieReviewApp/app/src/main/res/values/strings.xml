@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">2315631875129933</string>
+
+    <string name="fb_login_protocol_scheme">fb2315631875129933</string>
+
+
+    <string name="login_btn">LOGIN</string>đ
+    <string name="register_btn">REGISTER</string>
+    <string name="app_name">Films Review</string>
+    <string name="login_page">Login</string>
+    <string name="home_page">Home</string>
+    <string name="create_an_account"> Create account</string>
+    <string name="register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="surname">Surname</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="sex">Sex</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register_page">Register</string>
+
+
+    <string name="prompt">Chọn giới tính</string>
+    <string-array name="gender_array">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+
+    <string name="search_title">Tìm kiếm</string>
+    <string name="search_hint">Từ khoá</string>
+
+
+    // Drawer
+    // Username
+    <string name="drawer_cv_nameText">Sipln</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="camera_button_text">Upload</string>
+    <string name="sign_in_prompt">Sign In to begin</string>
+    <string name="take_photo_prompt">Upload a Photo</string>
+    <string name="download">Download</string>
+    <string name="sign_in_anonymously">Sign In</string>
+    <string name="rationale_storage">This sample reads images from your camera to demonstrate uploading.</string>
+    <string name="label_link">Link to Uploaded File</string>
+    <string name="label_download">Download File</string>
+    <string name="log_out">Log out</string>
+    <string name="success">Success</string>
+
+    <string name="progress_downloading">Downloading…</string>
+    <string name="progress_uploading">Uploading…</string>
+    <string name="progress_auth">Signing In…</string>
+
+    <string name="upload_success">Upload finished</string>
+    <string name="upload_failure">Upload failed</string>\
+
+    <string name="download_success">Download finished</string>
+    <string name="download_failure">Download failure</string>
+
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "954097042324",
+    "firebase_url": "https://films-review-24645.firebaseio.com",
+    "project_id": "films-review-24645",
+    "storage_bucket": "films-review-24645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954097042324:android:dbaf9555fa4b4f3e",
+        "android_client_info": {
+          "package_name": "com.example.sipln.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954097042324-oguq0a1ov1ri45ptqms84al1ri8kundf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "954097042324-oguq0a1ov1ri45ptqms84al1ri8kundf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsS5tlNZfjB9maEQJTtZDDdJgqMG7Z9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:checkableBehavior="single">
+        <item
+            android:id="@+id/changeAvatar"
+            android:icon="@drawable/ic_photo"
+            android:title="Change Avatar"/>
+        <item
+            android:id="@+id/changeLogInfo"
+            android:icon="@drawable/ic_personal"
+            android:title="Change Login Information"/>
+    </group>
+    <item  android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/notify_1"
+                android:icon="@drawable/ic_notifications"
+                android:title="Notification"
+                />
+            <item
+                android:id="@+id/settings_1"
+                android:icon="@drawable/ic_settings"
+                android:title="Setttings"
+                />
+        </menu>
+    </item>
+    <item  android:title="About">
+        <menu>
+            <item
+                android:id="@+id/about_1"
+                android:icon="@drawable/ic_info"
+                android:title="About us"
+                />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="colorMovieItem">#e9eff2</color>
+    <color name="backgroundColor">#000000</color>
+    <color name="botNavColor">#795548</color>
+    <color name="color_hintText">#000</color>
+
+
+    <!-- Duy -->
+    <color name="bluedark">#2f333f</color>
+    <color name="blulight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#eaad43</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="drawer_background">#175b4b</color>
+    <color name="drawer_menuitemText_color">#fff</color>
+
+
+    <color name="colorBGApp">#374e7e</color>
+
+
+    <color name="colorBGPhoto">#374e7e</color>
+    <color name="colorBGSelect">#2A3C57</color>
+
+    <color name="colorTextButton">#FFF</color>
+    <color name="colorTextNoAuth">#B0B9CD</color>
+    <color name="colorButton">#4A6FB1</color>
+
+    <color name="colorLinkTerm">#345699</color>
+    <color name="colorbtnAuthUsingStackExchange">#FFF</color>
+    <color name="colorTextAuthUsingStackExchange">#326EB6</color>
+
+    <color name="colorBGEditText">#FFF</color>
+    <color name="colorBGAction_CreateStackExchangeAccount">#4A6FB1</color>
+    <color name="colorBGItemHeaderDrawer">#29303C</color>
+
+    <color name="colorTextItemHeaderDrawer">#94989E</color>
+
+    <color name="colorBGCotentItemDrawer">#1E2531</color>
+
+
+</resources>

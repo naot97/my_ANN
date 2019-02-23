@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="275dp"
+    android:layout_height="250dp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="#0c7bca"
+    android:layout_margin="10dp"
+    >
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        >
+
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:numStars="5"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:isIndicator="false"
+            />
+
+        <Button
+            android:layout_marginTop="30dp"
+            android:id="@+id/btnRateInDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/button_style"
+            android:text="RATE"
+            android:textColor="@color/white"
+            android:textSize="17dp" />
+    </LinearLayout>
+</RelativeLayout>
+
+    <!--android:background="#76b2b5"-->

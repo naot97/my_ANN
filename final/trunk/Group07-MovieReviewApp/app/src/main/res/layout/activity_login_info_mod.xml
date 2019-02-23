@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragSignup_llContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBGApp"
+    tools:context=".Views.Activities.LoginInfoModActivity"
+    android:padding="@dimen/_10dp"
+    >
+    <!--<include layout="@layout/view_action_bar_back"/>-->
+    <!--android:layout_below="@+id/frag_llActionBar"-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        >
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/activityAccountMode_etNewPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:background="@color/colorBGEditText"
+            android:layout_margin="@dimen/_5dp"
+            android:padding="@dimen/_10dp"
+
+            />
+        <android.support.design.widget.TextInputEditText
+
+            android:id="@+id/activityAccountMode_etConfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password (Again)"
+            android:inputType="textPassword"
+            android:background="@color/colorBGEditText"
+            android:layout_margin="@dimen/_5dp"
+            android:padding="@dimen/_10dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/activityAccountMode_tvAccept"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_10dp"
+        android:text="Accept"
+        android:textColor="@color/colorTextButton"
+        android:background="@color/colorBGAction_CreateStackExchangeAccount"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/_10dp"
+        android:gravity="center"
+        />
+</RelativeLayout>
